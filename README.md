@@ -3,10 +3,6 @@ How I learned and wrote my compression algorithm.
 
 ## Part 1: Basic knowledge of C
 - [x] Learn what variables, types, and operators are (`int`, `char`, `float`, `unsigned`, `+ - * / %`).
-- [ ] Write simple programs:
-    - Sum of two numbers        
-    - Find min/max in array    
-    - Reverse array
 - [ ] Learn **loops** (`for`, `while`) and **conditions** (`if`, `switch`).
 - [ ] Learn **functions** — parameters, return values.
 - [ ] Learn **arrays** (1D and 2D).
@@ -14,6 +10,10 @@ How I learned and wrote my compression algorithm.
     - What `*` and `&` mean
     - Pointer arithmetic
     - Pointer to array and pointer to pointer
+- [ ] Write simple programs:
+    - Sum of two numbers        
+    - Find min/max in array    
+    - Reverse array
 - [ ] Learn **memory allocation** (`malloc`, `calloc`, `free`).
 - [ ] Practice **structs** — create a struct for RGB pixel.
 - [ ] Learn **file I/O**:    
