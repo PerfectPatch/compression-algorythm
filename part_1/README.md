@@ -13,3 +13,26 @@ reverse_arr[];
 ```
 which resulted in an error because the size wasn’t defined.
 As a result, it started printing incorrect values like 7 8 7 6 5 4 4 5 6...
+
+
+## [Conditionals](https://www.youtube.com/watch?v=-JMSaLRqsgo&list=PLBlnK6fEyqRgZq4a-SMViZr-V8jlvCioJ&index=2)
+
+```c
+int x = 2;
+
+switch(x)
+{
+  case 1: printf("x is 1");
+    break;
+  case 2: printf("x is 2");
+    break;
+  case 3: printf("x is 3");
+    break;
+  default: printf("x is a
+number other than 1, 2, ans 3");
+    break;
+}
+```
+```c
+x is 2
+```
