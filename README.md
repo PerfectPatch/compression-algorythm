@@ -10,7 +10,7 @@ How I learned and wrote my compression algorithm.
     - What `*` and `&` mean
     - Pointer arithmetic
     - Pointer to array and pointer to pointer
-- [ ] Write simple programs:
+- [x] Write simple programs:
     - Sum of two numbers        
     - Find min/max in array    
     - Reverse array
