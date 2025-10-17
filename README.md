@@ -3,7 +3,7 @@ How I learned and wrote my compression algorithm.
 
 ## Part 1: Basic knowledge of C
 - [x] Learn what variables, types, and operators are (`int`, `char`, `float`, `unsigned`, `+ - * / %`).
-- [ ] Learn **loops** (`for`, `while`) and **conditions** (`if`, `switch`).
+- [x] Learn **loops** (`for`, `while`) and **conditions** (`if`, `switch`).
 - [ ] Learn **functions** — parameters, return values.
 - [ ] Learn **arrays** (1D and 2D).
 - [ ] Learn **pointers**:
