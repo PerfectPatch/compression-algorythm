@@ -5,6 +5,7 @@ I became a bit interested in the topic of alignment and different data types in 
 
 I’ve more or less started using the ternary operator — it’s a convenient thing: `condition ? value_if_true : value_if_false;`. I like that you can make all sorts of short forms, like in `(for variable; condition; operation)`, where you don’t even have to use `{}`. Also, just for fun, I can write everything in one line if I want to.
 
+## `reverse_arr.c`
 When I was writing the program reverse_array.c, I made a mistake by not specifying the array size, which caused the values to print incorrectly.
 I had a line like this:
 ```c
