@@ -66,4 +66,5 @@ int main(void){
 }
 ```
 
-From: (https://www.geeksforgeeks.org/c/c-functions/)
+For this section, I used the following resources:
+1. https://www.geeksforgeeks.org/c/c-programming-language/
