@@ -36,3 +36,34 @@ number other than 1, 2, ans 3");
 ```c
 x is 2
 ```
+
+## Functions in C
+
+`main() function` -  starting point of C program. 
+
+### Example:
+```c
+return_type function_name(parameter_list) {
+    // body of the function
+}
+```
+
+
+```c
+#include <stdio.h>
+
+void fun()
+{
+  printf("fun() called \n");
+}
+
+int main(void){
+  printf("Before calling fun()"); 
+  fun();
+  fun();
+  printf("After calling fun()")  
+  return 0;
+}
+```
+
+From: (https://www.geeksforgeeks.org/c/c-functions/)
