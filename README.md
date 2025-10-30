@@ -6,7 +6,7 @@ How I learned and wrote my compression algorithm.
 - [x] Learn **loops** (`for`, `while`) and **conditions** (`if`, `switch`).
 - [x] Learn **functions** — parameters, return values.
 - [x] Learn **arrays** (1D and 2D).
-- [ ] Learn **pointers**:
+- [x] Learn **pointers**:
     - What `*` and `&` mean
     - Pointer arithmetic
     - Pointer to array and pointer to pointer
@@ -14,7 +14,7 @@ How I learned and wrote my compression algorithm.
     - Sum of two numbers        
     - Find min/max in array    
     - Reverse array
-- [ ] Learn **memory allocation** (`malloc`, `calloc`, `free`).
+- [x] Learn **memory allocation** (`malloc`, `calloc`, `free`).
 - [ ] Practice **structs** — create a struct for RGB pixel.
 - [ ] Learn **file I/O**:    
     - `fopen`, `fclose`, `fread`, `fwrite`
