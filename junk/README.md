@@ -8,7 +8,7 @@ The **KochanS-Book** directory includes exercises based on Stephen Kochan’s Pr
 - [x] Unit 4 — **Variables, Data Types, and Arithmetic Expressions:** *(int, float...)*
 - [x] Unit 5 — **Program Loops:** *(for, while...)*
 - [x] Unit 6 — **Decision Making**: *(if\else, switch...)*
-- [ ] Unit 7 — **Arrays:** *(arr[n]...)*
+- [x] Unit 7 — **Arrays:** *(arr[n]...)*
 - [ ] Unit 8 — Functions
 - [ ] Unit 9 — Structures
 - [ ] Unit 10 — Character Strings
